@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Visting Card</string>
+    <string name="the_vtu_florists">BMS Institute of Technology</string>
+    <string name="name_karidasappa">Name: Tarush J. Reddy</string>
+    <string name="job_title_salesman">Job Title: CEO DeveloperKing</string>
+    <string name="address_belagavi_karnataka">Address: Banglore, Karnataka</string>
+    <string name="email_karidasappa_flower_vtu_com">Email: tarushjreddy63@gmail.com</string>
+    <string name="phone_9876543210">Phone : 7338003303</string>
+    <string name="todo">TODO</string>
+    <string name="the_vtu_florists1">BMS Institute of Technology</string>
+</resources>
